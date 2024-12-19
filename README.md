@@ -20,7 +20,7 @@ Engenharia de software:
 inicio 21/06/2024 cusando até 21/06/2028
 
 
-#Ferramentas e tecnologias
+# Ferramentas e tecnologias
 <div>
 <img width="70px" hegth="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img width="70px" hegth="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
