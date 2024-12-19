@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Formação
 Engenharia de software:
-inicio 21/06/2024 cusando até 21/06/2028 , Universidade estácio
+inicio 21/06/2024 cursando até 21/06/2028 , Universidade estácio
 
 
 # Ferramentas e tecnologias
