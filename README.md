@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Formação
+<div>
 Engenharia de software:
 inicio 21/06/2024 cursando até 21/06/2028 , Universidade estácio
+</div>
+<div>
+curso de ti:
+inicio 03/02/2022 concluido em 25/06/2023 , alcina dantas feijão
+</div>
 
 
 # Ferramentas e tecnologias
