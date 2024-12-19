@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Formação
-<div>
+<div padding-bottom="20px">
 Engenharia de software:
 inicio 21/06/2024 cursando até 21/06/2028 , Universidade estácio
 </div>
 <div>
-curso de ti:
+Curso de ti:
 inicio 03/02/2022 concluido em 25/06/2023 , alcina dantas feijão
 </div>
 
